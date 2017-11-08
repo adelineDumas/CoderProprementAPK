@@ -1,0 +1,10 @@
+language: android
+components:
+    - tools
+    - platform-tools
+    - tools
+script:
+  -./gradlew build connectedCheck 
+  -./gradlew clean
+  -./gradlew testDebugUnitTest
+  -./gradlew assembleDebug
