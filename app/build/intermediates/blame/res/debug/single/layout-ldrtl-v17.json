@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/private/var/root/.android/build-cache/f0dff2cc56bacb83504bcc6113b30d935d85f4e8/output/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/private/var/root/.android/build-cache/f0dff2cc56bacb83504bcc6113b30d935d85f4e8/output/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    }
+]

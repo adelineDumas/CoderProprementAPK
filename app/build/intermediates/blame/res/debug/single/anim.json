@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/decelerate_cubic.xml",
+        "source": "/private/var/root/.android/build-cache/f0dff2cc56bacb83504bcc6113b30d935d85f4e8/output/res/anim/decelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/popup_exit.xml",
+        "source": "/private/var/root/.android/build-cache/f0dff2cc56bacb83504bcc6113b30d935d85f4e8/output/res/anim/popup_exit.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/private/var/root/.android/build-cache/45f57135654f83f3c2324cf02008cb5b6f323a34/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/iem/Documents/CoderProprement/sample-android-ci/app/build/intermediates/res/merged/debug/anim/popup_enter.xml",
+        "source": "/private/var/root/.android/build-cache/f0dff2cc56bacb83504bcc6113b30d935d85f4e8/output/res/anim/popup_enter.xml"
+    }
+]
